@@ -49,6 +49,6 @@ func preprocess(fileName string) {
 	fo.Close()
 }
 
-// func main() {
-// 	preprocess("Sales_August_2019.csv")
-// }
+func main() {
+	preprocess("Sales_August_2019.csv")
+}
