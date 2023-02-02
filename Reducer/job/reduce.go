@@ -81,6 +81,6 @@ func reduce(fileName string) {
 	frp.Close()
 }
 
-// func main() {
-// 	reduce("salesM.csv")
-// }
+func main() {
+	reduce("salesM.csv")
+}
