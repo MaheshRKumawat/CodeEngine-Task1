@@ -45,6 +45,6 @@ func mapper(fileName string) {
 	fo.Close()
 }
 
-// func main() {
-// 	mapper("salesP.csv")
-// }
+func main() {
+	mapper("salesP.csv")
+}
